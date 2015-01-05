@@ -1,0 +1,11 @@
+#C3PO WIZARD
+#Define Event=OnReady;
+#Define ContextMenu=GW.MESSAGE.MAIL
+#Begin
+#MenuType=MenuItem
+#Menu=
+#Text=GWSaveToDB
+#LongPrompt=GWSaveToDB
+#Constant=clickGWSaveToDB
+#End
+#Done

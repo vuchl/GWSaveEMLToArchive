@@ -1,0 +1,12 @@
+U:\Coding\GWSaveToDB\bin\Debug\GWSaveToDB.dll
+U:\Coding\GWSaveToDB\bin\Debug\GWSaveToDB.pdb
+U:\Coding\GWSaveToDB\bin\Debug\Interop.C3POTypeLibrary.dll
+U:\Coding\GWSaveToDB\obj\Debug\GWSaveToDB.csprojResolveAssemblyReference.cache
+U:\Coding\GWSaveToDB\obj\Debug\Interop.C3POTypeLibrary.dll
+U:\Coding\GWSaveToDB\obj\Debug\GWSaveToDB.csproj.ResolveComReference.cache
+U:\Coding\GWSaveToDB\obj\Debug\GWSaveToDB.dll
+U:\Coding\GWSaveToDB\obj\Debug\GWSaveToDB.pdb
+U:\Coding\GWSaveToDB\bin\Debug\Interop.GroupwareTypeLibrary.dll
+U:\Coding\GWSaveToDB\bin\Debug\Interop.GroupWiseCommander.dll
+U:\Coding\GWSaveToDB\obj\Debug\Interop.GroupwareTypeLibrary.dll
+U:\Coding\GWSaveToDB\obj\Debug\Interop.GroupWiseCommander.dll
